@@ -1,11 +1,11 @@
 <?php
-$isEasy = false;
+$isEasy = true;
 if ($isEasy)
 {
-    echo "C'est difficile !!!";
+    echo "C'est facile !!";
 }
 else
 {
-    echo "C'est facile !!";
+    echo "C'est difficile !!!";
 }
 ?>

@@ -1,6 +1,6 @@
 <?php
 $isEasy = false;
-if ($isEasy == false)
+if ($isEasy)
 {
     echo "C'est difficile !!!";
 }
